@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: (https://github.com/amb179/qr-code)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://roaring-pavlova-9db072.netlify.app/)
 
 ## My process
 I decided to build the card on html first, using div.card and adding the image and the text within the same div. Because the card and the background were the same color, I added the background color hsl(212, 45%, 89%) to the body, then made the card's background white. Now knowing the card's shape, I adjusted it to a favorable size, applied border radius, adjusted the size of the image, and changed the text color of the bottom text. The card was now ready, but I struggled to center it and keep it centered after resizing the page, so I took to Google for help and found a new method to horizontally and vertically center an element.
