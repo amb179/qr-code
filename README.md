@@ -10,7 +10,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Author](#author)  - [Useful resources](#useful-resources)
+
 
 ### Screenshot
 
@@ -21,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: (https://github.com/amb179/Practice)
+- Solution URL: (https://github.com/amb179/qr-code)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
